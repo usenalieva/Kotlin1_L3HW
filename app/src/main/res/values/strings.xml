@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Kotlin1_L3HW</string>
+    <string name="increment">+</string>
+    <string name="decrement">-</string>
+    <string name="result">Result of the Counter</string>
+    <string name="home">Home</string>
+    <string name="counts">Counts</string>
+    <string name="operations">Operations</string>
+</resources>
